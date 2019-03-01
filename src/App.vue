@@ -30,7 +30,7 @@ export default {
 
 		height: 100vh;
 		display: grid;
-		grid-template-rows: 60px 1fr 40px;
+		grid-template-rows: 60px 1fr auto;
 		grid-template-columns: 1fr;
 		grid-template-areas: 
 			"header"
