@@ -44,12 +44,12 @@ export default {
 
 <style>
     nav.navbar {
-        background-color: #2262CC;
-        border-top: 5px solid #2458AE;
+        background-color: #2458AE;
+        border-top: 5px solid #2262CC;
     }
     @media (max-width: 575.98px) { 
         nav.navbar img {
             max-width: 100%;
         }
-     }
+    }
 </style>

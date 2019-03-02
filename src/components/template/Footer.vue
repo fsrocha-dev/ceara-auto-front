@@ -29,18 +29,14 @@
                 <div class="col-md-2">
                     <h4>Siga-nos</h4>
                     <ul>
-                        <li class="float-left mr-3">
-                            <a href="#"><i class="fa fa-twitter"></i></a>
-                        </li>
-                        <li class="float-left mr-3">
-                            <a href="#"><i class="fa fa-facebook"></i></a>
-                        </li>
-                        <li class="">
-                            <a href="#"><i class="fa fa-instagram"></i></a>
+                        <li class="mr-3">
+                            <a href="#" class="mr-2"><i class="fa fa-twitter"></i></a>
+                            <a href="#" class="mx-3"><i class="fa fa-facebook"></i></a>
+                            <a href="#" class="ml-2"><i class="fa fa-instagram"></i></a>
                         </li>
                     </ul>
                     <h4 class="mt-4">Sobre</h4>
-                    <ul>
+                    <ul style="margin-top: -23px;">
                         <li><a href="">Empresa</a></li>
                     </ul>
                 </div>
