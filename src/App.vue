@@ -18,8 +18,9 @@ export default {
 </script>
 
 <style>
-	* {
+	*, h1, h2, h3, h4 {
 		font-family: 'Lato', sans-serif;
+		font-weight: 300;
 	}
 	body {
 		margin: 0;
@@ -30,7 +31,7 @@ export default {
 
 		height: 100vh;
 		display: grid;
-		grid-template-rows: 60px 1fr auto;
+		grid-template-rows: auto 1fr auto;
 		grid-template-columns: 1fr;
 		grid-template-areas: 
 			"header"
