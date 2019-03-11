@@ -1,5 +1,9 @@
 # Ceará Auto
 
+<p align="center">
+    <img src="docs/screenshot.jpeg"/>
+</p>
+
 ## Project setup
 ```
 npm install
